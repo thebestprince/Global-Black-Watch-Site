@@ -1,0 +1,33 @@
+<style>
+
+html{font-family: 'Prata', serif;
+   
+}
+#background {
+background:#000000;
+    opacity: .8;
+}
+   #headerfont {
+   color: #ffff33;
+}
+    header {
+        text-align: center;
+        display: flex;
+        flex-direction: column;
+            
+    }
+
+    header h1 {
+        margin: 0;
+        padding: 60px;
+
+
+    }
+
+.map {
+
+background: url(/images/map.jpg) no-repeat center center fixed; min-height: 100vh; margin: 0;
+
+}
+
+</style>
